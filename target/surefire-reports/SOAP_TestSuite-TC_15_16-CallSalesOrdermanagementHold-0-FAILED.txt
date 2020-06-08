@@ -1,0 +1,25 @@
+Status: FAILED
+Time Taken: 6537
+Size: 0
+Timestamp: Mon Jun 08 17:52:31 IST 2020
+TestStep: CallSalesOrdermanagementHold
+
+----------------- Messages ------------------------------
+org.apache.http.NoHttpResponseException: The target server failed to respond
+
+----------------- Properties ------------------------------
+Endpoint: http://soap.upskills.in/soap/default?services=salesOrderManagementV1
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=salesOrderManagementV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:salesOrderManagementV1HoldRequest>
+         <id>991</id>
+      </def:salesOrderManagementV1HoldRequest>
+   </soap:Body>
+</soap:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

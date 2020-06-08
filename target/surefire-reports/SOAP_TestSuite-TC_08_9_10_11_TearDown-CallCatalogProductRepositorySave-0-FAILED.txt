@@ -1,0 +1,33 @@
+Status: FAILED
+Time Taken: 5424
+Size: 0
+Timestamp: Mon Jun 08 18:14:44 IST 2020
+TestStep: CallCatalogProductRepositorySave
+
+----------------- Messages ------------------------------
+org.apache.http.NoHttpResponseException: The target server failed to respond
+
+----------------- Properties ------------------------------
+Endpoint: http://soap.upskills.in/soap/default?services=catalogProductRepositoryV1
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=catalogProductRepositoryV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:catalogProductRepositoryV1SaveRequest>
+         <product>
+            <sku>SKU00535</sku>
+            <name>MacBook</name>
+            <attributeSetId>4</attributeSetId>
+            //default value 4
+            <price>100</price>
+            <typeId>simple</typeId>
+            //for value refer catalogProductTypeListV1 WSDL Endpoint
+         </product>
+      </def:catalogProductRepositoryV1SaveRequest>
+   </soap:Body>
+</soap:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

@@ -1,0 +1,25 @@
+Status: FAILED
+Time Taken: 4977
+Size: 0
+Timestamp: Mon Jun 08 17:52:23 IST 2020
+TestStep: CallSalesOrderRepositoryGet
+
+----------------- Messages ------------------------------
+org.apache.http.NoHttpResponseException: The target server failed to respond
+
+----------------- Properties ------------------------------
+Endpoint: http://soap.upskills.in/soap/default?services=salesOrderRepositoryV1
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:def="http://soap.upskills.in/soap/default?services=salesOrderRepositoryV1">
+   <soap:Header/>
+   <soap:Body>
+      <def:salesOrderRepositoryV1GetRequest>
+         <id>991</id>
+      </def:salesOrderRepositoryV1GetRequest>
+   </soap:Body>
+</soap:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

@@ -1,0 +1,127 @@
+2020-06-08 16:58:38,250 INFO  [log] item : simple
+2020-06-08 16:58:38,250 INFO  [log] item : virtual
+2020-06-08 16:58:38,251 INFO  [log] item : configurable
+2020-06-08 16:58:38,251 INFO  [log] item : downloadable
+2020-06-08 16:58:38,252 INFO  [log] item : grouped
+2020-06-08 16:58:38,252 INFO  [log] item : bundle
+2020-06-08 16:58:38,910 INFO  [log] SukaPooja@gmail.com
+2020-06-08 16:58:59,609 INFO  [log] nikkiniki@gmail.com
+2020-06-08 16:59:22,838 INFO  [log] lathasree@gmail.com
+2020-06-08 16:59:59,708 INFO  [log] SKU00535
+2020-06-08 16:59:59,710 INFO  [log] MacBook
+2020-06-08 17:00:04,738 INFO  [log] SKU00536
+2020-06-08 17:00:04,739 INFO  [log] Iphone
+2020-06-08 17:00:15,114 INFO  [log] SKU00537
+2020-06-08 17:00:15,115 INFO  [log] Tab
+2020-06-08 17:00:32,370 INFO  [log] no.of testSteps runned: 7
+2020-06-08 17:01:08,831 INFO  [log] 
+2020-06-08 17:01:08,832 INFO  [log] Conditional goto is implemented
+2020-06-08 17:27:06,898 INFO  [log] item : simple
+2020-06-08 17:27:06,898 INFO  [log] item : virtual
+2020-06-08 17:27:06,900 INFO  [log] item : configurable
+2020-06-08 17:27:06,904 INFO  [log] item : downloadable
+2020-06-08 17:27:06,904 INFO  [log] item : grouped
+2020-06-08 17:27:06,905 INFO  [log] item : bundle
+2020-06-08 17:27:45,720 INFO  [log] 
+2020-06-08 17:27:45,720 INFO  [log] Conditional goto is implemented
+2020-06-08 17:35:19,244 INFO  [log] item : simple
+2020-06-08 17:35:19,245 INFO  [log] item : virtual
+2020-06-08 17:35:19,246 INFO  [log] item : configurable
+2020-06-08 17:35:19,250 INFO  [log] item : downloadable
+2020-06-08 17:35:19,251 INFO  [log] item : grouped
+2020-06-08 17:35:19,251 INFO  [log] item : bundle
+2020-06-08 17:36:19,545 INFO  [log] 
+2020-06-08 17:36:19,545 INFO  [log] Conditional goto is implemented
+2020-06-08 17:43:46,495 INFO  [log] SukaPooja@gmail.com
+2020-06-08 17:44:03,881 INFO  [log] nikkiniki@gmail.com
+2020-06-08 17:44:04,854 INFO  [log] lathaButta@gmail.com
+2020-06-08 17:44:31,551 INFO  [log] SKU00535
+2020-06-08 17:44:31,551 INFO  [log] MacBook
+2020-06-08 17:44:38,860 INFO  [log] SKU00536
+2020-06-08 17:44:38,860 INFO  [log] Iphone
+2020-06-08 17:44:50,012 INFO  [log] SKU00537
+2020-06-08 17:44:50,012 INFO  [log] Tab
+2020-06-08 17:45:00,972 INFO  [log] no.of testSteps runned: 12
+2020-06-08 17:48:46,460 INFO  [log] 
+2020-06-08 17:48:46,461 INFO  [log] Conditional goto is implemented
+2020-06-08 17:51:40,882 INFO  [log] item : simple
+2020-06-08 17:51:40,886 INFO  [log] item : virtual
+2020-06-08 17:51:40,888 INFO  [log] item : configurable
+2020-06-08 17:51:40,891 INFO  [log] item : downloadable
+2020-06-08 17:51:40,895 INFO  [log] item : grouped
+2020-06-08 17:51:40,896 INFO  [log] item : bundle
+2020-06-08 17:51:41,357 INFO  [log] SKU00535
+2020-06-08 17:51:41,357 INFO  [log] MacBook
+2020-06-08 17:51:46,922 INFO  [log] SKU00536
+2020-06-08 17:51:46,922 INFO  [log] Iphone
+2020-06-08 17:51:56,537 INFO  [log] SKU00537
+2020-06-08 17:51:56,538 INFO  [log] Tab
+2020-06-08 17:52:07,725 INFO  [log] no.of testSteps runned: 5
+2020-06-08 17:52:31,421 INFO  [log] 
+2020-06-08 17:52:31,421 INFO  [log] Conditional goto is implemented
+2020-06-08 17:58:45,175 INFO  [log] item : simple
+2020-06-08 17:58:45,176 INFO  [log] item : virtual
+2020-06-08 17:58:45,178 INFO  [log] item : configurable
+2020-06-08 17:58:45,180 INFO  [log] item : downloadable
+2020-06-08 17:58:45,181 INFO  [log] item : grouped
+2020-06-08 17:58:45,181 INFO  [log] item : bundle
+2020-06-08 17:58:45,711 INFO  [log] SKU00535
+2020-06-08 17:58:45,712 INFO  [log] MacBook
+2020-06-08 17:58:51,350 INFO  [log] SKU00536
+2020-06-08 17:58:51,350 INFO  [log] Iphone
+2020-06-08 17:58:55,499 INFO  [log] SKU00537
+2020-06-08 17:58:55,501 INFO  [log] Tab
+2020-06-08 17:59:00,615 INFO  [log] no.of testSteps runned: 12
+2020-06-08 17:59:45,053 INFO  [log] 
+2020-06-08 17:59:45,054 INFO  [log] Conditional goto is implemented
+2020-06-08 18:04:58,195 INFO  [log] item : simple
+2020-06-08 18:04:58,197 INFO  [log] item : virtual
+2020-06-08 18:04:58,198 INFO  [log] item : configurable
+2020-06-08 18:04:58,198 INFO  [log] item : downloadable
+2020-06-08 18:04:58,202 INFO  [log] item : grouped
+2020-06-08 18:04:58,202 INFO  [log] item : bundle
+2020-06-08 18:04:58,672 INFO  [log] SKU00535
+2020-06-08 18:04:58,672 INFO  [log] MacBook
+2020-06-08 18:05:08,809 INFO  [log] SKU00536
+2020-06-08 18:05:08,809 INFO  [log] Iphone
+2020-06-08 18:05:21,433 INFO  [log] SKU00537
+2020-06-08 18:05:21,434 INFO  [log] Tab
+2020-06-08 18:05:29,812 INFO  [log] no.of testSteps runned: 10
+2020-06-08 18:06:26,158 INFO  [log] 
+2020-06-08 18:06:26,160 INFO  [log] Conditional goto is implemented
+2020-06-08 18:08:15,244 INFO  [log] item : simple
+2020-06-08 18:08:15,244 INFO  [log] item : virtual
+2020-06-08 18:08:15,246 INFO  [log] item : configurable
+2020-06-08 18:08:15,249 INFO  [log] item : downloadable
+2020-06-08 18:08:15,250 INFO  [log] item : grouped
+2020-06-08 18:08:15,250 INFO  [log] item : bundle
+2020-06-08 18:08:15,733 INFO  [log] SKU00535
+2020-06-08 18:08:15,733 INFO  [log] MacBook
+2020-06-08 18:08:30,237 INFO  [log] SKU00536
+2020-06-08 18:08:30,238 INFO  [log] Iphone
+2020-06-08 18:08:36,340 INFO  [log] SKU00537
+2020-06-08 18:08:36,340 INFO  [log] Tab
+2020-06-08 18:08:43,342 INFO  [log] no.of testSteps runned: 12
+2020-06-08 18:14:43,789 INFO  [log] item : simple
+2020-06-08 18:14:43,790 INFO  [log] item : virtual
+2020-06-08 18:14:43,792 INFO  [log] item : configurable
+2020-06-08 18:14:43,795 INFO  [log] item : downloadable
+2020-06-08 18:14:43,795 INFO  [log] item : grouped
+2020-06-08 18:14:43,796 INFO  [log] item : bundle
+2020-06-08 18:14:44,244 INFO  [log] SKU00535
+2020-06-08 18:14:44,245 INFO  [log] MacBook
+2020-06-08 18:14:49,752 INFO  [log] SKU00536
+2020-06-08 18:14:49,755 INFO  [log] Iphone
+2020-06-08 18:15:52,230 INFO  [log] SKU00537
+2020-06-08 18:15:52,232 INFO  [log] Tab
+2020-06-08 18:16:04,570 INFO  [log] no.of testSteps runned: 8
+2020-06-08 18:17:00,930 INFO  [log] 
+2020-06-08 18:17:00,931 INFO  [log] Conditional goto is implemented
+2020-06-08 18:19:44,658 INFO  [log] item : simple
+2020-06-08 18:19:44,659 INFO  [log] item : virtual
+2020-06-08 18:19:44,660 INFO  [log] item : configurable
+2020-06-08 18:19:44,664 INFO  [log] item : downloadable
+2020-06-08 18:19:44,664 INFO  [log] item : grouped
+2020-06-08 18:19:44,664 INFO  [log] item : bundle
+2020-06-08 18:20:36,949 INFO  [log] 
+2020-06-08 18:20:36,949 INFO  [log] Conditional goto is implemented
